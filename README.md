@@ -6,7 +6,6 @@
 ### Getting Started
 * [Sign up for an Apple Developer Account](https://developer.apple.com/register/index.action) if you don't have one
 * Sign up for a [github account](http://github.com)
-* Please fill out [this google form](http://goo.gl/forms/MnKIxzNEFX) with your account information
 * Setup your git repository for textbook work (preferably public)
 
 
